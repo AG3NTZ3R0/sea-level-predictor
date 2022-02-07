@@ -1,3 +1,7 @@
+# Demographic Data Analyzer
+
+This is an original work inspired by one of the five required projects within the freeCodeCamp() Data Analysis with Python certification. I am responsible for writing all of the code within the sea_level_predictor.py file. The test code was supplied by freeCodeCamp() in order to analyze the required work. Below, you will see the prompt for this programming assignment.
+
 ### Assignment
 
 You will anaylize a dataset of the global average sea level change since 1880. You will use the data to predict the sea level change through year 2050.
